@@ -7,6 +7,7 @@ In action
 Purpose
 ------
 A proof-of-concept for how replying/quoting could work in Discord. This solution is obviously not optimal, but it's a cool way to see how quoting might work in the future (if ever implemented into the Discord client itself).
+
 Using
 ------
 Make sure you have "Developer Mode" enabled in Discord's Appearance settings. Right click the message you want to quote, and click "Copy ID."
