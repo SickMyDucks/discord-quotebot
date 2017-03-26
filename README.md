@@ -3,6 +3,7 @@
 In action
 ------
 ![gif demonstration](https://zippy.gfycat.com/LikableFirsthandAmberpenshell.gif)
+
 Using
 ------
 Make sure you have "Developer Mode" enabled in Discord's Appearance settings. Right click the message you want to quote, and click "Copy ID."
