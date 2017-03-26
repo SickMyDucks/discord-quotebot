@@ -2,17 +2,8 @@ const Discord = require("discord.js");
 const client = new Discord.Client({autoReconnect: true});
 const config = require("./config.js");
 
-let quoteRegex = /{quote:([0-9]+)}/gi
+let quoteRegex = /{quote:([0-9]+)}/gi;
 
-function assert(condition, message) {
-    if (!condition) {
-        message = message || "Assertion failed";
-        if (typeof Error !== "undefined") {
-            throw new Error(message);
-        }
-        throw message; // Fallback
-    }
-}
 client.on("ready", () => {
   console.log(`Logged in as ${client.user.username}`);
 });

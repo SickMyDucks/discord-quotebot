@@ -1,2 +1,1 @@
-module.exports.token = "" //your token goes here
-module.exports.embedColor = ""
+module.exports.token = ""; //your token goes here
