@@ -2,7 +2,7 @@
 ### A Discord selfbot to add "reply"-like quoting functionality
 In action
 ------
-![gif demonstration](https://zippy.gfycat.com/LikableFirsthandAmberpenshell.gif)
+![gif demonstration](https://i.neilrichter.com/wc6vu.gif)
 
 Purpose
 ------
@@ -27,6 +27,7 @@ Limitations
 ------
 * Sort of spammy (bigger guilds might not like you using this)
 * Only looks for quotes in the last 50 messages (if the selfbot can't find the message, nothing happens)
+* Currently only available on servers text channels, not DM channels
 
 Setup
 ------
