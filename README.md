@@ -12,9 +12,11 @@ Using
 ------
 Make sure you have "Developer Mode" enabled in Discord's Appearance settings. Right click the message you want to quote, and click "Copy ID."
 
-Next, type `{quote:` where you want the quote to appear, and paste in the ID. End with `}`.
+Next, type `{quote:` where you want the quote to appear, and paste in the ID of the message. Then, add the source with `, source:` and paste the ID of the Text channel from where you are quoting. End with `}`.
 
-When you send the message, it will be replaced with the quote! Wow!
+Example : `{quote<messageID>, source:<sourceChannel>}`
+
+When you send the message, it will be replaced with the quote and its source! Wow!
 
 Features
 ------
